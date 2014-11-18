@@ -1,0 +1,23 @@
+{
+  "name": "collapse-whitespace",
+  "version": "0.1.0",
+  "description": "collapses whitespace",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tetsuo/collapse-whitespace.git"
+  },
+  "keywords": [
+    "collapse",
+    "whitespace"
+  ],
+  "author": "Onur Gunduz <ogunduz@gmail.com> (http://onurgunduz.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tetsuo/collapse-whitespace/issues"
+  },
+  "homepage": "https://github.com/tetsuo/collapse-whitespace"
+}
